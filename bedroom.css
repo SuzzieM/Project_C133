@@ -1,0 +1,33 @@
+.heading
+{
+font-size: 23px;
+width: 45%;
+margin: 20px;
+}
+
+#status
+{
+    margin-top: 0px;
+    font-size: 18px;
+}
+
+body
+{
+    background-size: cover;
+}
+
+canvas
+{
+    margin-top: 60px;
+}
+
+.link{
+    float: right;
+    font-size : 20px;
+    border-radius: 15px;
+    width : 150px;
+    font-weight: bolder;
+    line-height: 2;
+    color:white;
+    background-color:lightslategray;
+}
